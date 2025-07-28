@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Pedro Aguilar — Sofware Developer in Test II + Data & AI Enthusiast</h1>
 
-<!--
-**Pedro1697/Pedro1697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Developer+in+Test+%7C+Machine+Learning+%7C+Data+Scientist&center=true&width=600&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About me
+
+Sofware Developer in Test with hands-on experience in Python, Machine Learning, Computer Vision and Generative AI solutions. Skilled in data processing, model training and deployment. Passionate about solving real-world problems through AI and delivering bussiness impact through data-driven solutions.
+
+---
+
+### 🧠 Technical Skills
+
+- 🖥️ **Programming Languages**: Python , SQL , MATLAB 
+- 🤖 **Machine Learning / AI**: Scikit-learn , TensorFlow , NLP 🗣, LLMs , LangChain 
+- 👁️‍🗨️ **Computer Vision**: OpenCV , MediaPipe 
+- 📊 **Data Processing & Analysis**: Pandas , NumPy , Matplotlib , Seaborn 
+- 🗄️ **Databases**: PostgreSQL , Oracle 
+- 🛠️ **Tools & Frameworks**: Git , Jira , Jenkins , Robot Framework , Flask , Tableau 
+
+
+---
+
+### 📁 Key Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [🤟 Jujutsu Kaisen Hand Gesture Detector](https://github.com/Pedro1697/Jujutsu-Kaisen-Hand-Gesture-Detector) | Real-time hand gesture recognition inspired by anime, using LSTM on webcam video data. | Python, TensorFlow, OpenCV, MediaPipe |
+| [🎯 Football Face Recognition](https://github.com/Pedro1697/football_classifier_deploy) | Football player face recognition with classical ML, wavelet features, and Flask deployment. | Python, OpenCV, Scikit-learn, Flask |
+| [❄️ Ice Breaker Generator (LLM App)](https://github.com/Pedro1697/ice_breaker_generator) | Web app generating LinkedIn summaries and icebreakers using LangChain and Google Gemini. | Python, LangChain, Google Gemini, Flask |
+| [📄 SkimLit](https://github.com/Pedro1697/SkimLit_Project) | NLP project for scientific paper summarization using transformer models. | Python, NLP, TensorFlow, Embeddings |
+
+---
+
+### 📫 Contacto
+
+- 📧 Correo: **agpn16@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/pedronaguilar)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro1697&layout=compact&theme=radical" alt="Top Languages">
+</p>
