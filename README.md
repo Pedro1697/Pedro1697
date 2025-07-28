@@ -35,7 +35,7 @@ Sofware Developer in Test with hands-on experience in Python, Machine Learning, 
 
 ---
 
-### 📫 Contacto
+### 📫 Contact
 
 - 📧 Correo: **agpn16@gmail.com**
 - 💼 LinkedIn: **[linkedin.com/in/pedronaguilar](https://linkedin.com/in/pedronaguilar)**
