@@ -15,7 +15,7 @@ Sofware Developer in Test with hands-on experience in Python, Machine Learning, 
 ### 🧠 Technical Skills
 
 - 🖥️ **Programming Languages**: Python , SQL , MATLAB 
-- 🤖 **Machine Learning / AI**: Scikit-learn , TensorFlow , NLP 🗣, LLMs , LangChain 
+- 🤖 **Machine Learning / AI**: Scikit-learn , TensorFlow , NLP , LLMs , LangChain 
 - 👁️‍🗨️ **Computer Vision**: OpenCV , MediaPipe 
 - 📊 **Data Processing & Analysis**: Pandas , NumPy , Matplotlib , Seaborn 
 - 🗄️ **Databases**: PostgreSQL , Oracle 
