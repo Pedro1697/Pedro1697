@@ -8,11 +8,11 @@
 
 ### 🚀 About me
 
-Sofware Developer in Test with hands-on experience in Python, Machine Learning, Computer Vision and Generative AI solutions. Skilled in data processing, model training and deployment. Passionate about solving real-world problems through AI and delivering bussiness impact through data-driven solutions.
+Sofware Developer with hands-on experience in Python, Machine Learning, Computer Vision and Generative AI solutions. Skilled in data processing, model training and deployment. Passionate about solving real-world problems through AI and delivering bussiness impact through data-driven solutions.
 
 ---
 
-### 🧠 Technical Skills
+###  Technical Skills
 
 - 🖥️ **Programming Languages**: Python , SQL , MATLAB 
 - 🤖 **Machine Learning / AI**: Scikit-learn , TensorFlow , NLP , LLMs & RAG , LangChain, LangSmith, LangGraph
@@ -28,14 +28,14 @@ Sofware Developer in Test with hands-on experience in Python, Machine Learning, 
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [🤟 Jujutsu Kaisen Hand Gesture Detector](https://github.com/Pedro1697/jujutsu_kaisen_hands_detector) | Real-time hand gesture recognition inspired by anime, using LSTM on webcam video data. | Python, TensorFlow, OpenCV, MediaPipe |
-| [🎯 Football Face Recognition](https://github.com/Pedro1697/FootballFaceRecognition) | Football player face recognition with classical ML, wavelet features, and Flask deployment. | Python, OpenCV, Scikit-learn, Flask |
-| [❄️ Ice Breaker Generator (LLM App)](https://github.com/Pedro1697/ice_breaker) | Web app generating LinkedIn summaries and icebreakers using LangChain and Google Gemini. | Python, LangChain, Google Gemini, Flask |
-| [📄 Recipe Suggester](https://github.com/Pedro1697/Recipe-Suggestions-RAG) | LLM that uses RAG in a recipe database to suggest a recipe to the end user depending on the ingredients they provide.  | Python, NLP, LLMs, Embeddings, RAG, LangChain |
+| [Jujutsu Kaisen Hand Gesture Detector](https://github.com/Pedro1697/jujutsu_kaisen_hands_detector) | Real-time hand gesture recognition inspired by anime, using LSTM on webcam video data. | Python, TensorFlow, OpenCV, MediaPipe |
+| [Football Face Recognition](https://github.com/Pedro1697/FootballFaceRecognition) | Football player face recognition with classical ML, wavelet features, and Flask deployment. | Python, OpenCV, Scikit-learn, Flask |
+| [Ice Breaker Generator (LLM App)](https://github.com/Pedro1697/ice_breaker) | Web app generating LinkedIn summaries and icebreakers using LangChain and Google Gemini. | Python, LangChain, Google Gemini, Flask |
+| [Recipe Suggester](https://github.com/Pedro1697/Recipe-Suggestions-RAG) | LLM that uses RAG in a recipe database to suggest a recipe to the end user depending on the ingredients they provide.  | Python, NLP, LLMs, Embeddings, RAG, LangChain |
 
 ---
 
-### 📫 Contact
+###  Contact
 
 - 📧 Correo: **agpn16@gmail.com**
 - 💼 LinkedIn: **[linkedin.com/in/pedronaguilar](https://linkedin.com/in/pedronaguilar)**
