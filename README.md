@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Pedro Aguilar — Sofware Developer + Data & AI Enthusiast</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines= Developer+in+Test+%7C+Machine+Learning+%7C+Data+Scientist&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Developer+%7C+Machine+Learning+%7C+Data+Scientist&center=true&width=600&height=45">
 </p>
 
 ---
