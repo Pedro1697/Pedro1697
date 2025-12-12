@@ -31,7 +31,7 @@ Sofware Developer with hands-on experience in Python, Machine Learning, Computer
 | [Jujutsu Kaisen Hand Gesture Detector](https://github.com/Pedro1697/jujutsu_kaisen_hands_detector) | Real-time hand gesture recognition inspired by anime, using LSTM on webcam video data. | Python, TensorFlow, OpenCV, MediaPipe |
 | [Football Face Recognition](https://github.com/Pedro1697/FootballFaceRecognition) | Football player face recognition with classical ML, wavelet features, and Flask deployment. | Python, OpenCV, Scikit-learn, Flask |
 | [Ice Breaker Generator (LLM App)](https://github.com/Pedro1697/ice_breaker) | Web app generating LinkedIn summaries and icebreakers using LangChain and Google Gemini. | Python, LangChain, Google Gemini, Flask |
-| [Recipe Suggester](https://github.com/Pedro1697/Recipe-Suggestions-RAG) | LLM that uses RAG in a recipe database to suggest a recipe to the end user depending on the ingredients they provide.  | Python, NLP, LLMs, Embeddings, RAG, LangChain |
+| [Documentation Helper Bot](https://github.com/Pedro1697/documentation-helper) | Documentation Helper is a lightweight tool that automates the process of extracting, embedding, and querying documentation. | Python,LLMs, Embeddings, RAG, LangChain, Streamlit |
 
 ---
 
